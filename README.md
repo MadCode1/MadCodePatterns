@@ -32,8 +32,8 @@ To start using the patterns from this repository:
 3. Run C code:
    ```bash
    gcc patternname.c
-4.On windows:
+4. C On windows:
    ```bash
    a.exe
-5On Linux/Mac
+5. C On Linux/Mac:
    ./a.out

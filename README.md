@@ -26,6 +26,14 @@ To start using the patterns from this repository:
 1. Clone the repository:
    ```bash
    git clone https://github.com/MadCode1/MadCodePatterns.git
-2. Run code:
+2. Run Python code:
    ```bash
    python patternname.py
+3. Run C code:
+   ```bash
+   gcc patternname.c
+4.On windows:
+   ```bash
+   a.exe
+5On Linux/Mac
+   ./a.out
